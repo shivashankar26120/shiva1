@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+5 ft
 1 ft
 2 ft
 3 ft
