@@ -2,7 +2,7 @@
 void main()
 {
 1 ft
-
+2 ft
 
 
 printf("1 master");
